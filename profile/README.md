@@ -12,10 +12,10 @@ This public collection includes James Benton's personal projects, open-source to
 
 | Project | What it does | Where to start |
 | --- | --- | --- |
-| [IronMem](https://github.com/BMC-INC/Iron-mem) | Persistent memory for AI coding assistants, with local storage, retrieval, provenance, and policy controls. | Rust runtime and MCP server; source installation and verification in the README. |
+| [IronMem](https://github.com/BMC-INC/Iron-mem) | Persistent memory for AI coding assistants, with local storage, retrieval, provenance, and policy controls. | [Release binaries](https://github.com/BMC-INC/Iron-mem/releases/latest), MCP server, and verified source installation. |
 | [Coding Ledger](https://github.com/BMC-INC/coding-ledger) | Connects local AI coding activity and estimated spend with Git activity to support delivery analysis. | Python CLI and local dashboard; Elastic-2.0 source-available license. |
-| [exfetch](https://github.com/BMC-INC/exfetch) | Gives agents structured web-fetching tools and a browser-extension bridge. | Rust CLI and MCP server; review current capabilities and security boundaries before connecting a browser. |
-| [Sovereign Prompt](https://github.com/BMC-INC/Sovereign-Prompt) | Refines prompts locally and exposes the workflow through MCP and an optional API proxy. | Development-stage Rust application; local setup and integration limits are documented. |
+| [exfetch](https://github.com/BMC-INC/exfetch) | Gives agents structured web-fetching tools and a browser-extension bridge. | [CLI and extension downloads](https://github.com/BMC-INC/exfetch/releases/latest); browser setup and access controls are documented. |
+| [Sovereign Prompt](https://github.com/BMC-INC/Sovereign-Prompt) | Refines prompts locally and exposes the workflow through MCP and an optional API proxy. | [Release binaries](https://github.com/BMC-INC/Sovereign-Prompt/releases/latest) for local use; Claude and Codex integration and HTTP access controls are documented. |
 | [AI Bot Checker](https://github.com/BMC-INC/ai-bot-checker) | Inspects a website's robots.txt rules for named AI crawlers and generates policy templates. | Python CLI or web interface; policy inspection does not prove crawler compliance or AI visibility. |
 
 ## Integrations and companion tools
