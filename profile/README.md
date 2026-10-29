@@ -2,7 +2,9 @@
 
 **Tools and research for AI systems that can explain what they remember, what they are allowed to do, and what actually happened.**
 
-Our public work spans persistent agent memory, developer tooling, execution governance, and reproducible evaluation. This page is a guide to the software, research, and demonstrations maintained by James Benton and ExecLayer.
+This public collection includes James Benton's personal projects, open-source tools, research, experiments, and project websites. Projects have different levels of maturity; each README describes what is implemented and how it has been tested.
+
+**The public repositories are one part of BMC INC's work.** The company maintains a broader portfolio of private repositories for its products and internal development. This page is a guide to the public collection, rather than a complete inventory of company products or private development. A public project website or prototype should be evaluated according to its stated scope and status.
 
 [Company & founder](https://execlayer.net) · [Selected work](https://execlayer.net/work) · [Research](https://execlayer.net/research) · [Evidence & primary sources](https://execlayer.net/evidence)
 
@@ -39,7 +41,7 @@ Research proposals and benchmark results have a different scope from product gua
 | --- | --- |
 | [execlayer.net](https://github.com/BMC-INC/execlayer-net) | Source for the public founder, products, research, and evidence website. |
 | [QueueFlow Architecture](https://github.com/BMC-INC/queueflow-architecture) | Interactive presentation of the webhook pipeline; the product implementation is maintained separately. |
-| [VeriReceipt Website](https://github.com/BMC-INC/verireceipt-site) | Product information, support, and policies; the receipt application is maintained separately. |
+| [VeriReceipt Website](https://github.com/BMC-INC/verireceipt-site) | A personal project's information, support, and policy website. This public repository contains the website; it does not provide an installable receipt application or establish that the app is complete. |
 | [The Map and the Flood](https://github.com/BMC-INC/flood-map) | Interactive editorial scenario about automation and work, with visible assumptions and an illustrative role index. |
 
 ## Evaluate, contribute, or collaborate
